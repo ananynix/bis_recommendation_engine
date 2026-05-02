@@ -1,0 +1,8 @@
+# Environments
+venv/
+__pycache__/
+
+# Mac system files (just in case)
+.DS_Store
+
+# Note: We are NOT ignoring the data/ or src/ folders because the judges need them!

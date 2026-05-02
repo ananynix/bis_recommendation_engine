@@ -91,4 +91,3 @@ python eval_script.py --results my_results.json
 * **Multi-Modal Support:** Allow MSEs to upload photos of their products/blueprints for visual standard matching.
 * **Agentic UI:** Wrap the Python backend in a Streamlit or Gradio interface for a more user-friendly web experience.
 * **Continuous Updates:** Implement an automated cron job to fetch and embed newly released BIS standards directly from government portals.
-```
